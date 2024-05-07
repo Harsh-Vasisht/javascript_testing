@@ -1,3 +1,4 @@
+// Refactor this file
 class ShoppingCart {
   constructor() {
     this.items = [];
